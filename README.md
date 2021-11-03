@@ -9,5 +9,5 @@
 
 ## Screenshots
 
-![App Screenshot](DevopsFinalProject/WebContent/WEB-INF/resources/GitCapture.PNG?raw=true "Optional Title")
+![App Screenshot](/DevopsFinalProject/WebContent/WEB-INF/resources/GitCapture.PNG?raw=true "Optional Title")
 
